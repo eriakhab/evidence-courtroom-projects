@@ -63,13 +63,7 @@ Statistical terminology is used precisely and explained where necessary.
 
 ## Relationship to Other Components
 
-The writeups integrate outputs from:
-
-/analysis → Statistical modeling and estimation
-/data → Primary datasets and visual outputs
-
-
-to produce coherent, verifiable narratives.
+The writeups integrate outputs to produce coherent, verifiable narratives.
 
 Every major claim in these documents is traceable to reproducible
 analysis files.
