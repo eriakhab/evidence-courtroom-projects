@@ -102,6 +102,11 @@ The Evidence Courtroom: Research Episodes and Analytical Archive.
 GitHub repository.  
 https://github.com/eriakhab/evidence-courtroom-projects
 
+This repository serves as the primary scholarly record for this work.
+
+All analyses, interpretations, and conclusions are documented and maintained
+here as part of The Evidence Courtroom initiative.
+
 ---
 
 ## Authors and Maintenance
