@@ -35,6 +35,7 @@ All materials are organized to support independent verification and reuse.
 
 Current structure:
 
+```text
 episodes/
 └── episode-01-non-adherent-patient/
     ├── data/        # Primary datasets
