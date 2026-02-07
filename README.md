@@ -43,8 +43,6 @@ episodes/
     ├── writeups/    # Thesis and manuscript outputs
     └── README.md    # Episode overview
 
-```text
-episodes/
 └── episode-03-qol-scale-trial/
     ├── data/        # Primary dataset
     ├── analysis/    # Statistical scripts and documentation
