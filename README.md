@@ -1,14 +1,20 @@
 # Evidence Courtroom Projects
 
-This repository contains technical documentation, analytical workflows, and reproducible code supporting **The Evidence Courtroom** initiative — a research communication project focused on evidence-based public engagement, methodological rigor, and transparency.
+This repository contains technical documentation, analytical workflows, and
+reproducible research materials supporting **The Evidence Courtroom** initiative —
+a research communication platform focused on evidence-based public engagement,
+methodological rigor, and transparency.
 
 ---
 
 ## About The Evidence Courtroom
 
-The Evidence Courtroom is a research communication initiative that presents scientific and analytical findings in a courtroom-style format. Claims are examined, evidence is presented, limitations are addressed, and conclusions are grounded in data.
+The Evidence Courtroom presents scientific and analytical findings in a
+courtroom-style format. Claims are examined, evidence is presented, limitations
+are addressed, and conclusions are grounded in transparent analysis.
 
-The project’s goal is to make complex research accessible to broader audiences without compromising analytical integrity or scientific standards.
+The project’s goal is to make complex research accessible to broader audiences
+without compromising analytical integrity or scientific standards.
 
 ---
 
@@ -21,19 +27,43 @@ This repository serves as a central archive for:
 - Reproducibility and validation materials  
 - Visualization and reporting assets  
 
+All materials are organized to support independent verification and reuse.
+
 ---
 
 ## Repository Structure
 
-Planned structure includes:
+Current structure:
 
-- `writeups/` — Technical reports and documentation  
-- `analysis/` — Analysis scripts and notebooks  
-- `data/` — Public or synthetic datasets (when applicable)  
-- `replication/` — Validation workflows  
-- `figures/` — Visual outputs  
+episodes/
+└── episode-01-non-adherent-patient/
+    ├── data/        # Primary datasets
+    ├── analysis/    # Statistical scripts and documentation
+    ├── writeups/    # Thesis and manuscript outputs
+    └── README.md    # Episode overview
 
-Structure may evolve as projects mature.
+Additional episodes and modules will be added as projects mature.
+
+---
+
+## Featured Episode
+
+### Episode 01 — The People vs. The Non-Adherent Patient
+
+This episode examines predictors, patterns, and consequences of medication
+non-adherence using empirical health data.
+
+Complete documentation is available at:
+
+episodes/episode-01-non-adherent-patient/
+
+Including:
+
+- Curated datasets  
+- Reproducible analysis scripts  
+- Master’s thesis  
+- Research manuscript  
+- Technical documentation  
 
 ---
 
@@ -58,7 +88,22 @@ All projects aim to follow reproducible research principles, including:
 - Version-controlled code  
 - Replicable pipelines  
 
-Where feasible, materials support independent verification.
+Findings presented through The Evidence Courtroom are traceable from published
+claims to raw data and executable code.
+
+---
+
+## How to Cite This Repository
+
+If you use materials from this repository, please cite:
+
+Eriakha, A., & Eriakha, B. (2026).  
+The Evidence Courtroom: Research Episodes and Analytical Archive.  
+GitHub repository.  
+https://github.com/eriakhab/evidence-courtroom-projects
+
+For peer-reviewed publications derived from this work, please cite the
+corresponding article when available.
 
 ---
 
@@ -66,11 +111,11 @@ Where feasible, materials support independent verification.
 
 Maintained by:
 
-- **Alfred Eriakha**  
-- **Bennard Eriakha**  
+- Alfred Eriakha  
+- Bennard Eriakha  
 
 LinkedIn:  
-[Alfred Eriakha](https://www.linkedin.com/in/alfred-eriakha-3b5567228)
+https://www.linkedin.com/in/alfred-eriakha-3b5567228
 
 ---
 
