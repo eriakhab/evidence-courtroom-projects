@@ -38,9 +38,17 @@ Current structure:
 ```text
 episodes/
 └── episode-01-non-adherent-patient/
-    ├── data/        # Primary datasets
+    ├── data/        # Primary dataset
     ├── analysis/    # Statistical scripts and documentation
     ├── writeups/    # Thesis and manuscript outputs
+    └── README.md    # Episode overview
+
+```text
+episodes/
+└── episode-03-qol-scale-trial/
+    ├── data/        # Primary dataset
+    ├── analysis/    # Statistical scripts and documentation
+    ├── writeups/    # manuscript output
     └── README.md    # Episode overview
 
 Additional episodes and modules will be added as projects mature.
