@@ -3,8 +3,8 @@
 ## Hypertensive Patients and Measurement Validity
 
 This episode examines whether a widely used quality-of-life instrument
-accurately and fairly measures patient outcomes among individuals
-with hypertension.
+accurately and equitably measures patient-reported outcomes among
+individuals with hypertension.
 
 Using confirmatory factor analysis, item response theory,
 and measurement invariance testing, this project evaluates:
@@ -18,9 +18,9 @@ and measurement invariance testing, this project evaluates:
 
 ## Folder Structure
 
-- `data/` — Primary datasets  
-- `analysis/` — Statistical scripts and documentation  
-- `writeups/` — Technical and interpretive outputs  
+- `data/` — Primary datasets and derived outputs  
+- `analysis/` — Statistical scripts and methodological documentation  
+- `writeups/` — Technical reports and interpretive summaries  
 
 ---
 
@@ -31,7 +31,8 @@ All reported findings are derived from:
 - Materials in `data/`
 - Scripts in `analysis/`
 
-This ensures transparency and reproducibility.
+This structure supports full transparency and reproducibility
+of analytical results.
 
 ---
 
