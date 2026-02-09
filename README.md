@@ -48,7 +48,7 @@ episodes/
     ├── analysis/    # Statistical scripts and documentation
     ├── writeups/    # manuscript output
     └── README.md    # Episode overview
-
+```
 Additional episodes and modules will be added as projects mature.
 
 ---
