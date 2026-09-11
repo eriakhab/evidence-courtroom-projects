@@ -118,13 +118,19 @@ here as part of The Evidence Courtroom initiative.
 
 ## Authors and Maintenance
 
-Maintained by:
+## Researcher Identity
 
-- Alfred Eriakha  
-- Bennard Eriakha  
+This repository is maintained by **Omokhodion Alfred Eriakha (Alfred Eriakha)** and Bennard Eriakha.
 
-LinkedIn:  
-https://www.linkedin.com/in/alfred-eriakha-3b5567228
+Research profiles for Omokhodion Alfred Eriakha:
+
+- Research site: https://omokhodion-eriakha.shipstatic.com/
+- ORCID: https://orcid.org/0009-0007-6215-6608
+- Google Scholar: https://scholar.google.com/citations?user=qULPaEYAAAAJ
+- ResearchGate: https://www.researchgate.net/profile/Omokhodion-Eriakha
+- LinkedIn: https://www.linkedin.com/in/alfred-eriakha-3b5567228
+
+Published name variants include **Omokhodion Alfred Eriakha**, **Omokhodion Eriakha**, **Alfred Eriakha**, and **O. Eriakha**.
 
 ---
 
